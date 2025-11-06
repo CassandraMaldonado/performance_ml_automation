@@ -1,2 +1,4 @@
+# Athlete Performance ML Automation
 
-End-to-end machine learning workflow comparing manual model tuning and AutoML for predicting athlete's performance. Includes feature engineering, model benchmarking and insights on accuracy, efficiency and interpretability.
+This project explores how **manual machine learning pipelines** compare to **AutoML frameworks** in predicting athletic performance outcomes.  
+It demonstrates how feature engineering, hyperparameter tuning, and automation can be combined to improve both **accuracy** and **model efficiency**.
