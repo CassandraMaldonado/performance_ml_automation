@@ -5,7 +5,7 @@ It demonstrates how feature engineering, hyperparameter tuning and automation ca
 
 ## Project Overview
 
-The goal of this project is to predict total lift performance for athletes using body metrics such as Snatch, *Clean & Jerk*, *Body Weight*, and *Height*.  
+The goal of this project is to predict total lift performance for athletes using body metrics such as Snatch, Clean and Jerk, *Body Weight*, and *Height*.  
 Two complementary approaches were implemented and compared:
 
 | Approach | Platform | Code Type | Goal |
