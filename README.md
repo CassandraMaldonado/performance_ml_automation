@@ -16,7 +16,7 @@ Two complementary approaches were implemented and compared:
 ## Manual ML Approach
 
 **Steps:**
-1. Data cleaning and feature engineering  
+1. Data cleaning and feature engineering.
 2. Training multiple regression models  
 3. Manual hyperparameter tuning with GridSearchCV  
 4. Evaluation using R², RMSE, and runtime  
