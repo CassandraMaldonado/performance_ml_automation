@@ -13,7 +13,7 @@ Two complementary approaches were implemented and compared:
 | **Manual ML** | Jupyter + Scikit-learn | Full-code | Build, tune and interpret models manually. |
 | **AutoML** | AWS SageMaker | Low-code | Automatically find the best-performing model. |
 
-## ⚙️ **Manual ML Approach**
+## Manual ML Approach
 
 **Steps:**
 1. Data cleaning and feature engineering  
