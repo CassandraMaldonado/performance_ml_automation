@@ -46,13 +46,13 @@ Two complementary approaches were implemented and compared:
 **Platform Type:** Low-code.
 
 
-## 📊 **Comparison Summary**
+## Comparison Summary
 
 | Metric | Manual (Random Forest) | AutoML (XGBoost) |
 |---------|------------------------|------------------|
 | R² | 0.9997 | 0.9990 |
 | RMSE | 5.10 | 10.00 |
-| Training Time (s) | 64.2 | 120.0 |
+| Training Time | 64.2 | 120.0 |
 | Control | Full | Limited |
 | Code Type | Full-code | Low-code |
 
