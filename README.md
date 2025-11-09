@@ -27,8 +27,7 @@ Two complementary approaches were implemented and compared:
 - **RMSE:** 5.10 
 - **Training Time:** 64.2 seconds
 
-
-## 🤖 **AutoML Approach (SageMaker)**
+## AutoML Approach (SageMaker)
 
 **Steps:**
 1. Loaded the cleaned dataset  
