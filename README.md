@@ -43,10 +43,8 @@ Two complementary approaches were implemented and compared:
 - **R²:** 0.9990  
 - **RMSE:** 10.00  
 - **Training Time:** 120 seconds  
+**Platform Type:** Low-code.
 
-**Platform Type:** Low-code (model training and evaluation via UI, minimal coding)
-
----
 
 ## 📊 **Comparison Summary**
 
