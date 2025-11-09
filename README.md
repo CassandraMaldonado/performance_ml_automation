@@ -30,8 +30,8 @@ Two complementary approaches were implemented and compared:
 ## AutoML Approach (SageMaker)
 
 **Steps:**
-1. Loaded the cleaned dataset  
-2. Ran AutoML for regression task  
+1. Loaded the cleaned dataset.
+2. Ran AutoML for regression task.
 3. Analyzed feature importance  
 4. Identified top models by validation score and speed  
 5. Compared AutoML vs manual ML  
