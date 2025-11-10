@@ -38,7 +38,7 @@ Two complementary approaches were implemented and compared:
 
 **AutoML Results:**
 - **Top 5 Features:** BodyWeight, Snatch, CleanAndJerk, Height, Age.
-- **Top Model (All Features):** XGBoost  
+- **Top Model (All Features):** XGBoost
 - **Top Model (Top 3 Features):** CatBoost  
 - **R²:** 0.9990  
 - **RMSE:** 10.00  
