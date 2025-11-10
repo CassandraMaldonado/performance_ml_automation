@@ -40,7 +40,7 @@ Two complementary approaches were implemented and compared:
 - **Top 5 Features:** BodyWeight, Snatch, CleanAndJerk, Height, Age.
 - **Top Model (All Features):** XGBoost
 - **Top Model (Top 3 Features):** CatBoost
-- **R²:** 0.9990  
+- **R²:** 0.999
 - **RMSE:** 10.00  
 - **Training Time:** 120 seconds  
 **Platform Type:** Low-code.
